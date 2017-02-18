@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $(window).scroll(function() {
 	if ($(this).scrollTop() > 1){
 		$('header').addClass("sticky");
@@ -30,7 +30,7 @@ $('#plan .switch-toggle').find('.company-toggle ').on('click', function(){
 //	company_price_table.addClass('active');
 //	individual_price_table.removeClass('active');			
 });
-=======
+
 $(window).scroll(function() {
 	if ($(this).scrollTop() > 1){
 		$('header').addClass("sticky");
@@ -62,4 +62,3 @@ $('#plan .switch-toggle').find('.company-toggle ').on('click', function(){
 //	company_price_table.addClass('active');
 //	individual_price_table.removeClass('active');			
 });
->>>>>>> origin/master
