@@ -1,0 +1,379 @@
+<<<<<<< HEAD
+/*==========  Desktop First Method  ==========*/
+
+/*Extra Large Devices, Wide Screens */
+@media only screen and (min-width : 1700px) {
+	#iphone-screens .screens-img {
+		background-size: 100%;
+		padding-top: 800px;
+	}
+}
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	#customers .carousel-wrapper {
+		width: 60%;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	#features {
+		margin-bottom: 40px;
+	}
+	
+	#features .feature1,
+	#features .feature2 {
+		margin-left: 0;
+	}
+
+	#features .feature2 {
+		margin-top: 130px;
+	}
+	
+	#iphone-feature h2 {
+		margin-top: 25px;
+	}
+
+	#iphone-feature .device {
+		position: static;
+		margin-top: 70px;
+		margin-bottom: 10px;
+	}
+	
+	#iphone-feature br {
+		display: none;
+	}
+
+	#iphone-feature .device img {
+		width: 90%;
+	}	
+	
+	#iphone-feature a {
+		font-size: 14px;
+		margin-top: 10px;
+		margin-bottom: 0px;
+	}
+
+	#iphone-feature .btn-white {
+		margin-left: 10px;
+	}
+
+	#iphone-feature i {
+	margin-left: 10px;
+	}
+
+	
+	#map {
+		padding-top: 30px;
+		padding-bottom: 50px;
+	}
+
+	#map .world-map {
+		position: static;
+		margin-top: 70px;
+		margin-bottom: 10px;
+	}
+
+	#map .world-map img {
+		width: 90%;
+	}	
+
+
+	#iphone-screens .screens-img {
+		background-size: 110%;
+	}
+	#customers .carousel-wrapper .carousel-labels li {
+		width: 33%;
+	}
+	#customers .carousel-wrapper {
+		width: 70%;
+	}
+	
+	#customers .carousel-wrapper {
+		padding-bottom: 400px;
+	}
+
+	#customers {
+		padding: 50px 0 20px 0;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	#ready-to-buy input[type="email"] {
+		width: 90%;
+	}
+
+	#customers .carousel-wrapper {
+		width: 90%;
+	}
+
+	#customers .carousel-wrapper {
+		padding-bottom: 450px;
+	}
+
+	#plan {
+		padding: 100px 0;
+	}
+
+	#plan .info {
+		margin-bottom: 40px;
+	}
+
+	#plan .price-table {
+		margin: -20px auto;
+	    max-width: 100%;
+	    float: none;
+	}
+
+	#subscribe input[type="email"] {
+		width: 90%;
+	}
+
+	footer .links {
+		margin-top: 30px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	#header img {
+		width: 289px;
+		height: 673px;
+		margin-left: -145px;
+		margin-bottom: 20px;
+	}
+
+	#map .ever {
+		margin-left: 10px;
+	}
+
+	#ready-to-buy form a {
+		display: inline-block;
+		margin-left: 0;
+		margin-top: 20px;
+	}
+
+	#ready-to-buy input[type="email"] {
+		padding-right: 20px;
+	}
+
+	#customers .carousel-wrapper {
+		padding-bottom: 550px;
+	}
+
+	#customers .carousel-items {
+		top: 150px;
+	}
+
+	#subscribe form a {
+		display: inline-block;
+		margin-left: 0;
+		margin-top: 20px;
+	}
+
+	#subscribe input[type="email"] {
+		padding-right: 20px;
+	}
+
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	#header h1 {
+	font-size: 52px; 
+}
+
+}
+=======
+/*==========  Desktop First Method  ==========*/
+
+/*Extra Large Devices, Wide Screens */
+@media only screen and (min-width : 1700px) {
+	#iphone-screens .screens-img {
+		background-size: 100%;
+		padding-top: 800px;
+	}
+}
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	#customers .carousel-wrapper {
+		width: 60%;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	#features {
+		margin-bottom: 40px;
+	}
+	
+	#features .feature1,
+	#features .feature2 {
+		margin-left: 0;
+	}
+
+	#features .feature2 {
+		margin-top: 130px;
+	}
+	
+	#iphone-feature h2 {
+		margin-top: 25px;
+	}
+
+	#iphone-feature .device {
+		position: static;
+		margin-top: 70px;
+		margin-bottom: 10px;
+	}
+	
+	#iphone-feature br {
+		display: none;
+	}
+
+	#iphone-feature .device img {
+		width: 90%;
+	}	
+	
+	#iphone-feature a {
+		font-size: 14px;
+		margin-top: 10px;
+		margin-bottom: 0px;
+	}
+
+	#iphone-feature .btn-white {
+		margin-left: 10px;
+	}
+
+	#iphone-feature i {
+	margin-left: 10px;
+	}
+
+	
+	#map {
+		padding-top: 30px;
+		padding-bottom: 50px;
+	}
+
+	#map .world-map {
+		position: static;
+		margin-top: 70px;
+		margin-bottom: 10px;
+	}
+
+	#map .world-map img {
+		width: 90%;
+	}	
+
+
+	#iphone-screens .screens-img {
+		background-size: 110%;
+	}
+	#customers .carousel-wrapper .carousel-labels li {
+		width: 33%;
+	}
+	#customers .carousel-wrapper {
+		width: 70%;
+	}
+	
+	#customers .carousel-wrapper {
+		padding-bottom: 400px;
+	}
+
+	#customers {
+		padding: 50px 0 20px 0;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	#ready-to-buy input[type="email"] {
+		width: 90%;
+	}
+
+	#customers .carousel-wrapper {
+		width: 90%;
+	}
+
+	#customers .carousel-wrapper {
+		padding-bottom: 450px;
+	}
+
+	#plan {
+		padding: 100px 0;
+	}
+
+	#plan .info {
+		margin-bottom: 40px;
+	}
+
+	#plan .price-table {
+		margin: -20px auto;
+	    max-width: 100%;
+	    float: none;
+	}
+
+	#subscribe input[type="email"] {
+		width: 90%;
+	}
+
+	footer .links {
+		margin-top: 30px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	#header img {
+		width: 289px;
+		height: 673px;
+		margin-left: -145px;
+		margin-bottom: 20px;
+	}
+
+	#map .ever {
+		margin-left: 10px;
+	}
+
+	#ready-to-buy form a {
+		display: inline-block;
+		margin-left: 0;
+		margin-top: 20px;
+	}
+
+	#ready-to-buy input[type="email"] {
+		padding-right: 20px;
+	}
+
+	#customers .carousel-wrapper {
+		padding-bottom: 550px;
+	}
+
+	#customers .carousel-items {
+		top: 150px;
+	}
+
+	#subscribe form a {
+		display: inline-block;
+		margin-left: 0;
+		margin-top: 20px;
+	}
+
+	#subscribe input[type="email"] {
+		padding-right: 20px;
+	}
+
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	#header h1 {
+	font-size: 52px; 
+}
+
+}
+>>>>>>> origin/master
